@@ -1,0 +1,4 @@
+flask
+pandas
+py2neo
+elasticsearch

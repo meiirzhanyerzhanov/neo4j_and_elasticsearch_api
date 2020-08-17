@@ -1,0 +1,4 @@
+http.host: 0.0.0.0
+bootstrap.memory_lock: false
+network.host: 0.0.0.0
+transport.host: 0.0.0.0
